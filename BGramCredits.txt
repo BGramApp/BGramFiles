@@ -1,0 +1,22 @@
+Big Thanks @Deelite for many ideas that were implemented in the application, help in debugging and Russian localization,
+
+@AVATARA — for ideas and coordination the debugging process,
+
+@llgdd — for helping with design elements,
+
+@Sentiago — for extensive testing and Video Guide,
+
+alpha-testers and all users who report bugs — for help in debugging.
+
+Translators:
+
+Arabic - @Staisho
+Bulgarian - @Error_4O2
+French - @PapySG
+German - @Ruetger
+Italian - @LucentW
+Portuguese - @lipetst
+Russian - @Deelite
+Spanish - @jorgealejo
+Ukrainian - @OkS369
+Uzbek - @zafar094
