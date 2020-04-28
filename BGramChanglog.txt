@@ -1,3 +1,29 @@
+<b>BGram T6.0.1-B6.7.0:</b>
+
+• Source code updated to Telegram 6.0.1.
+• Tor codes and engine updated to Tor-0.4.2.5-rc.
+• Translation API in mini, full screen and text editor item.
+• Direct chats: now you can make new folder and set it as Direct chats, which will be shown in sidebar and as a tab. Syncing is supported.
+• Folder limitation had been increased, but only initial 10 folders will be synced.
+• Set custom icon for tabs.
+• Show or hide All tab.
+• Icon and text for tab all.
+• Swipe up and down actions for floating button.
+• Ability to disable go to next photo by edge tapping.
+• Ability to replace the New Message button with Saved Messages.
+• Maps preview forced to use Yandex.
+• Remove single item from search history.
+• Hide proxy sponsor.
+• Buttons for sending photo as a file and without grouping in attach panel.
+• Add member now moved to 3-dot menu in profile.
+• Pins are revert back to 5 pins for main tab.
+• Hidden reading removed.
+
+Note:
+This version has major changes in codes, it is suggested to clean install.
+By installing this version all BGram settings, hidden chats, favourite chats, etc. will be reverted  to stock.
+Do not restore the old backups, since they won’t work.
+
 <b>BGram T5.11.0-B6.4.0:</b>
 
 • Source code updated to 5.11.
