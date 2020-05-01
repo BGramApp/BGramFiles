@@ -1,3 +1,8 @@
+<b>BGram T6.0.1-B6.8.2:</b>
+
+-Option for disable TOR notification removed.
+-App was removed from forced dark mode.
+
 <b>BGram T6.0.1-B6.8.0:</b>
 
 • Source code updated to Telegram 6.0.1.
