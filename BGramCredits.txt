@@ -1,14 +1,16 @@
-Big Thanks @Deelite for many ideas that were implemented in the application, help in debugging and Russian localization,
+Big Thanks @Deelite for many ideas that were implemented in the application, help in debugging and administration,
+@AVATARA ó for ideas and coordination the debugging process,
 
-@AVATARA — for ideas and coordination the debugging process,
+@DrTeleX, @Dr_website ó for permanent debugging and BGram website,
 
-@llgdd — for helping with design elements,
+@Sentiago ó for extensive testing and Video Guide,
+@Ukrrooter, @jorgealejo,@Khaleghi_1413 ó for testing and conscientious administration,
+@llgdd ó for administration and helping with design elements,
+@frusl, @winqooq ó for helping with design elements,
 
-@Sentiago — for extensive testing and Video Guide,
+Alpha testers and all users who report bugs ó for help in debugging.
 
-alpha-testers and all users who report bugs — for help in debugging.
-
-Translators:
+Thanks to translators:
 
 Arabic - @Staisho
 Bulgarian - @Error_4O2
