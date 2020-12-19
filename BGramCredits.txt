@@ -10,8 +10,7 @@ Big Thanks @Deelite for many ideas that were implemented in the application, hel
 
 Alpha testers and all users who report bugs — for help in debugging.
 
-Thanks to translators:
-
+**Thanks to translators:**
 Arabic - @Staisho
 Bulgarian - @Error_4O2
 French - @PapySG
@@ -22,3 +21,25 @@ Russian - @Deelite
 Spanish - @jorgealejo
 Ukrainian - @OkS369
 Uzbek - @zafar094
+
+**Donators:**
+@at_0m (@ht_vbok)
+@Klaus_V
+@JulianHu
+@edkij
+@StrongCoffee
+@Mister_White
+@VarelkaVarelka
+@iceflame
+@truesvoloch
+@W_A_R_U_M
+@Maksim_R
+@ShustryTM
+@User_O_o
+@Fuzzbert
+@Funfy
+@Delliaf
+@kobakirill
+@ldmhodges
+@Gray174
+@Igor_7989

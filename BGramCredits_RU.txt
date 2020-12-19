@@ -10,7 +10,7 @@
 
 Альфа-тестерам и всем пользователям, сообщающим об ошибках — за помощь в выявлении недочётов.
 
-Спасибо переводчикам:
+**Спасибо переводчикам:**
 Арабский — @Staisho;
 Болгарский — @Error_4O2;
 Испанский — @jorgealejo;
@@ -21,3 +21,26 @@
 Украинский — @OkS369;
 Узбекский — @zafar094;
 Французский — @PapySG.
+
+
+**Жертвователи:**
+@at_0m (@ht_vbok)
+@Klaus_V
+@JulianHu
+@edkij
+@StrongCoffee
+@Mister_White
+@VarelkaVarelka
+@iceflame
+@truesvoloch
+@W_A_R_U_M
+@Maksim_R
+@ShustryTM
+@User_O_o
+@Fuzzbert
+@Funfy
+@Delliaf
+@kobakirill
+@ldmhodges
+@Gray174
+@Igor_7989
