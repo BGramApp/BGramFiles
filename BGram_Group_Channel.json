@@ -1,5 +1,10 @@
 {
   "NormalGroup":"@BGramFA",
   "PublicGroup":"BGramOfficial",
-  "Channel":"BGramChannel"
+  "Channel":"BGramChannel",
+  "GroupEN":"@BGramOfficial",
+  "GroupFA":"@BGramFA",
+  "GroupRU":"@AltTG",
+  "GroupUZ":"@BGramUZ",
+  "GroupAR":"@BGramAR"
 }
