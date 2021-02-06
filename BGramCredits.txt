@@ -1,16 +1,16 @@
-Big Thanks @Deelite for many ideas that were implemented in the application, help in debugging and administration,
-@AVATARA — for ideas and coordination the debugging process,
+Big Thanks @Deelite for many ideas implemented in the application and the help at all stages of the project development;
+thanks @AVATARA — for ideas and coordination of the entire debugging process;
 
-@DrTeleX, @Dr_website — for permanent debugging and BGram website,
+@DrTeleX, @Dr_website — for permanent debugging and BGram website;
+@Ukrrooter, @jorgealejo, @Khaleghi_1413 — for testing and conscientious administration;
+@edkij, @StrongCoffee —  for debugging, constant help in groups and donations;
+@Sentiago — for extensive testing and Video Guide;
+@llgdd — for administration and helping with design elements;
+@frusl, @winqooq — for helping with design elements.
 
-@Sentiago — for extensive testing and Video Guide,
-@Ukrrooter, @jorgealejo,@Khaleghi_1413 — for testing and conscientious administration,
-@llgdd — for administration and helping with design elements,
-@frusl, @winqooq — for helping with design elements,
+Thanks to alpha testers and all users reporting bugs.
 
-Alpha testers and all users who report bugs — for help in debugging.
-
-**Thanks to translators:**
+**Thanks to Translators:**
 Arabic - @Staisho
 Bulgarian - @Error_4O2
 French - @PapySG
@@ -22,9 +22,9 @@ Spanish - @jorgealejo
 Ukrainian - @OkS369
 Uzbek - @zafar094
 
-**Donators:**
-@at_0m (@ht_vbok)
-@Klaus_V
+**Thanks to Donators — for motivation and trust:**
+**@Klaus_V**
+**@at_0m (@ht_vbok)**
 @JulianHu
 @edkij
 @StrongCoffee
@@ -43,3 +43,5 @@ Uzbek - @zafar094
 @ldmhodges
 @Gray174
 @Igor_7989
+
+And of course thanks Telegram — for the fact that it exists.
