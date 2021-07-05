@@ -1,3 +1,115 @@
+**BGram-7.8.0 (74802):**
+• Source code update to 7.8.0 (2360).
+• Unlimited marked messages in any chat.
+• All Marked messages in sidebar with ability to sort them by added date or msg original date.
+• Backup and restore for marked messages.
+• Update edited marked messages manually all at ones.
+• Multi mark messages in chat.
+• People Nearby removed from sidebar. Now everything related to communication (including Contacts, New group/channel, People nearby, Invite friends) is in the Chats section.
+• Remove hidden chats from global media section when "Remove hidden chats from search" is enable.
+• Indonesian translation added.
+
+**BGram-7.7.2 (74772):**
+• Sources code updated to 7.7.2 (2293).
+• Ability to backup and restore folders.
+• Ability to put your own Api key for yandex translation.
+• Mark on messages has been re written(your current marked messages will be reset).
+• Improve multi account system.
+
+**BGram-7.6.0.1 (74765):**
+• Hide button for save to download or chat folder progress dialog.
+• Bug fixes and some minor changes.
+
+**BGram-7.6.0 (74760):**
+• Source code updated to 7.6.0 (2264).
+• We present you the ability to send stickers with text. In the text field, enter your message as usual, in the stickers panel, tap and hold the desired one, then select "Send with caption".
+For other clients, text behind the sticker will be hidden, but it can be copied in the context menu ("Edit and repost" also works in clients supporting this feature). The sticker text will be visible in chats in BGram, also in the chat list in other clients (as long as the message is the last in the chat).
+• Customizable message context menu.
+• Direct links to BGram settings (bg://settings/drawerNameType), you can copy direct link by long press on settings item (if the long press was not taken by other things).
+• Message details (tap and hold a message to select it, then press ⓘ in the header).
+• Send photos as sticker by long press on attach menu, send button then select "send as sticker".
+• Option to send edited photo as sticker.
+• Enable mask/sticker selection in video editing.
+• Profile info/bio Translation.
+• Improve hidden chats and its security.
+• Add official spanish group.
+
+**BGram-7.4.2 (74200):**
+• Source code updated to 7.4.2 (2227).
+• Ability to use device system font as well as light and bold based on it.
+• Translation services shortcuts in the Translator action bar.
+
+**BGram-7.3.1.12 (73112):**
+• Multi account system completely rewrote for best performance.
+  • Ability to limit maximum accounts in BGram hidden menu.
+  • System account index in sidebar account rows.
+• Dragging left and right for floating button:
+  • If you have more that one account:
+    • Dragging left will switch your account positively.
+    • Dragging right will switch your account negatively.
+  • If you have one account:
+    • Dragging left is cloud.
+    • Dragging right is translation page.
+• Search in BGram settings.
+• Recent translation language section.
+• Account index removed from sidebar, you can check account index in BGram settings/Sorting account.
+• Show / hide disabled accounts by holding ﹀ button in the sidebar.
+• Enable long click on download item in to save files in to the chat's folder.
+• Extra empty row when using message merging.
+• Placed "send when online" directly on sending schedule menu.
+• Turn off accounts by long click on accounts avatar.
+• Sidebar profile long click is for opening your own profile.
+• VMESS proxy for android 4.1+.
+• SS, SSR and VMESS core updated.
+• TOR engine updated to 0.4.4.6
+• Add all official groups under BGram settings/info.
+
+**BGram 7.3.1 (7315):**
+• Source code updated to 7.3.1 (2206).
+• Dynamic modules are moved to application.
+• New App Icon.
+• V2ray core updated.
+• Ability to export chat list now back.
+• Nearby in sidebar long click action is translation section.
+• Default settings changed for always open and cloud button in header.
+• New chat floating button position changed to very bottom and its default settings changed to new chat.
+• Proxy list checking improved.
+
+**BGram T7.2.1-B7.2.9:**
+• Source code updated to telegram 7.2.1(2139).
+• Supporting SS, SSR, v2ray and Vmess shadowsocks proxies (for V2ray you must install its plugin too).
+• Showing profile photo datacenter.
+• Added characters counter when typing a message.  Press and hold it to quickly clear the input field, press to copy the typed text.
+• Added 3 tabs style, top, bottom and rounds.
+• Options for hide counters, disable swipe for change tabs, change counter text size, disable hide on scroll(rounds and bottom) and always open.
+• Move chats counter to avatar side only when using Rounds tabs.
+• Multi-account system improved.
+• Auto lock in one second.
+• The name of original sender in the chat list when forwarding.
+• Show own profile function moved to tap and hold the Saved messages avatar in chat list.
+• Tor engine updated to 0.4.3.6.
+• Enable external links clickable in bio.
+• ShadowSocks libraries updated.
+• TOR feature moved to on-demand dynamic module.
+• Video player speed changer also for embedded web video player.
+• Go to first message in private chat.
+• Archived chats in the forwarding panel has been moved to the bottom of the list.
+• Account disconnect function moved to tap and hold the profile photo in sidebar.
+• Ability to play video/gif in shared media with external player (enable it from B-Settings).
+• Disable closing of embedded video player when copying a link.
+• Playback speed changer for embedded web video player.
+• Passphrase added for hidden chats.
+• Added the ability to run shadowsocks as a background service.
+• Added Yandex translation source.
+• Added instant view translation.
+• Uzbek and Kazakh languages added to translator.
+• Display folder names in the header.
+• PIP video window size increased.
+• Disable schedule and search date picker vibration.
+• Enable QR login in sessions.
+• In app review.
+• Improve battery consumption.
+
 **BGram T6.0.1-B6.8.5:**
 • Added an ability to mark read all chat tabs.
 • Changed space between the tabs.
@@ -35,8 +147,8 @@ Do not restore the old backups, since they won’t work.
 
 **BGram T5.11.0-B6.4.0:**
 • Source code updated to 5.11.
-• TOR engine updated to tor-0.4.1.6-rc 
-(Long click on the onion to delete old one then download new one.)
+• TOR engine updated to tor-0.4.1.6-rc
+(Long click on the onion to delete old one then download new one).
 • New chat button changed to Saved messages shortcut.
 • New group/channel fuction moved to Contacts and Groups section, which combines all that relates to users and communities.
 • New secret chat button completely removed (you can start secret chat from any user's profile page).
@@ -53,25 +165,25 @@ Do not restore the old backups, since they won’t work.
 
 **BGram T5.9-B5.9 Beta:**
 • Source code updated to 5.9.
-• TOR updated to the latest version 0.4.0.4-RC (open TOR in proxy settings and hold onion logo to clear the data. Start TOR and update will be downloaded.)
+• TOR updated to the latest version 0.4.0.4-RC (open TOR in proxy settings and hold onion logo to clear the data. Start TOR and update will be downloaded).
 • Now you can get TOR bridges from DropBox and TOR auto connects when notification arrived.
 
 Introducing new quick actions for multiple selected messages:
-• «Multi reply» (multi mention): 
-when 2 or more messages are selected, click the @ button to insert the authors' names of the selected messages in the text field. (Due to Telegram limitation, only 5 users can receive notifications for one message with mentions). 
-• Long tap on @ copies to buffer the list of IDs of the selected messages authors (maybe useful for admins). 
-• «Multi links» (quick links copy) — copies to buffer the list of links to selected messages. 
-• Long tap inserts the list of links to text field. 
-• «Multi edit and repost»: 
+• «Multi reply» (multi mention):
+when 2 or more messages are selected, click the @ button to insert the authors' names of the selected messages in the text field. (Due to Telegram limitation, only 5 users can receive notifications for one message with mentions).
+• Long tap on @ copies to buffer the list of IDs of the selected messages authors (maybe useful for admins).
+• «Multi links» (quick links copy) — copies to buffer the list of links to selected messages.
+• Long tap inserts the list of links to text field.
+• «Multi edit and repost»:
 select multiple messages and tap Edit and repost, then long tap on message to edit it. Press ✔ to save changes, then go to the next message editing.
 • Archive for all types of chats (including custom tabs and hidden section).
 • New themes added: Desert Reborn (by Avatara) and several dark themes — for OLED screens.
-• Added option «Toggle by long tap on header» to hidden reading section. Now it is disabled by default. 
-• New icons for all menus. 
+• Added option «Toggle by long tap on header» to hidden reading section. Now it is disabled by default.
+• New icons for all menus.
 • Fixes and other impovements.
 
 **BGram T5.4.0-B5.1.0:**
-• Source code updated to telegram 5.4.0
+• Source code updated to telegram 5.4.0.
 • TOR updated to 0.3.5.8, just enable/disable it from main menu or proxy page to download new update. Also you can wipe all TOR files when you long click on Onion icon.
 • New options in TOR settings: Prefer IPv6 connections, Disable IPv4 connections, Connection padding and Reduced connection padding.
 • Ability to save media to chat folder.
@@ -98,7 +210,7 @@ select multiple messages and tap Edit and repost, then long tap on message to ed
 **BGram T5.3.1-B5.0.0:**
 • Source code updated to telegram 5.3.1.
 • Introducing vertical tabs with many options! (3 styles: round buttons, icons only, and icons with titles; 2 special style for displaying round style).
-• Huge changes in codes and UI regarding tabs, custom tabs, favorite, and hidden chats. 
+• Huge changes in codes and UI regarding tabs, custom tabs, favorite, and hidden chats.
 • Switches for removing custom tab's chats from other main tabs.
 • Ability to pick custom icon (PNGs) for custom tabs ). Also, you can resize and set them in correct size.
 • Multi-sections in "New Tabs" for custom icons, so that you may delete or save them to your cloud. Besides, button for deleting all extra icon in header if you have custom icons.
@@ -106,7 +218,7 @@ select multiple messages and tap Edit and repost, then long tap on message to ed
 • Added user mention markdown in all markdown pannels by user ID (just go to their profile and copy their ID from "tap-on-id" section or write it manually).
 • Custom user mention name by longclick on "Mention List" in chat or media caption mention list.
 • Ability to multi-selectly add in group as well as in member section.
-• Collapsed shared media section rows in groups and channels profile .
+• Collapsed shared media section rows in groups and channels profile.
 • Moved proxy switching options to proxy settings section.
 • Added Deutsche (German),French, and Uyghur languages.
 • Auto next media download disable option applied for music, too.
@@ -121,11 +233,11 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 • Backup and restore custom tabs.
 • Use custom tabs in forward panel.
 
-• Introducing integrated Tor-project (https://www.torproject.org/) .
+• Introducing integrated Tor-project (https://www.torproject.org/).
 • TOR working in background when app closed.
 • TOR-?ontrol tile in quick panel for Android 7+.
 
-• Mention message in chat like #msg+msgid format. 
+• Mention message in chat like #msg+msgid format.
 • Copy external link to message in private chats.
 
 • Hidden chats in forward panel.
@@ -148,7 +260,7 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 • Some fixes.
 
 **BGramBeta T4.9.1-B3.8.4:**
-• Introducing integrated Tor-project https://www.torproject.org .
+• Introducing integrated Tor-project https://www.torproject.org.
 • Check proxy availability before connect or save.
 • Round video messages added to shared media.
 • Ability to replace sidebar's proxy switch with Tor switch.
@@ -169,7 +281,7 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 • The application name and logo are finally changed to BGram.
 • BGram settings has been totally reorganized and changed to new style.
 • New emoji (version 13).
-• Big changes in app icons (Telegram 5.0 style)
+• Big changes in app icons (Telegram 5.0 style).
 • The message's bubbles are changed and improved.
 • Proxy switch in sidebar.
 • New markdown "Quote" in markdown panel.
@@ -192,9 +304,9 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 **BifToGram T4.9.1-B3.5.2:**
 • Now app name BifToGram was changed to BGram. The icon is also new. You can choose old name and icon in settings.
 • Ability to use new or old app name and icon (default is BGram style).
-• Sort accounts and pinned dialogs
+• Sort accounts and pinned dialogs.
 • Ability to move app data to external card.
-• Long names for files in chat (it depends on your screen width)
+• Long names for files in chat (it depends on your screen width).
 • Hide typing or sending status.
 • Copy username by long click in posts.
 • Added "Invited by" in group members list (displays who added the user in the group).
@@ -207,7 +319,7 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 • Online members now count even there is only one and removed limitation of online members for groups more than 200 members.
 • Dividing number of views and members in 3 digits.
 • Show correct last seen in settings instead of always online.
-• Improved proxy switching and proxy checking. Long click on sort proxy button force gets pings, short click just sort the list if pings available
+• Improved proxy switching and proxy checking. Long click on sort proxy button force gets pings, short click just sort the list if pings available.
 • Proxy sponsored channels now muted by default.
 • Sort tabs and pinned when you long click on tabs.
 • Hints and Guide and Donate in "About" section.
@@ -272,22 +384,22 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 **BifToGram T4.9.1-B3.1.5:**
 • Separated shared media.
 • Multi actions from recent actions (for admins).
-• Auto proxy switching to best ping (when start or connection lost)
+• Auto proxy switching to best ping (when start or connection lost).
 • Proxies sorted by ping in proxy list settings.
 • Save proxy without connect to that.
 • View and apply third-party fonts directly from chat.
 • Adjusting emoji size when using third-party fonts
-• Actions by click and long click on avatars in chat list (goto profile, show photo, chat preview etc.)
+• Actions by click and long click on avatars in chat list (goto profile, show photo, chat preview etc).
 • Customizable photo width in chat.
-• Set sending photo quality default is 85%
+• Set sending photo quality default is 85%.
 • Swipe actions in channels: left to save to cloud, right to forward.
 • Search button in chats header (long click to search from group members).
 • Long tap in chat title to open Shared files.
-• Long tap on group avatar for recent actions for admins
+• Long tap on group avatar for recent actions for admins.
 • Scroll and pause for GIFs.
 • Group members filter.
 • Hidden chats notifications changed, sensitive part now hidden.
-• Quickshare shortcuts (direct share android 6+)
+• Quickshare shortcuts (direct share android 6+).
 • Disable download next media(only for photos now).
 • Show exact count of post view.
 • Disable swipe between tabs as an option.
@@ -331,13 +443,13 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 • Fixes and other improvements.
 
 **BifToGram T4.9.0-B2.6.2:**
-• Code was updated to latest telegram sources (4.9.0)
+• Code was updated to latest telegram sources (4.9.0).
 • Redesigned chat preview.
 • Added paste button into Create link markdown dialog.
 • Other improvements.
 
 **BifToGram T4.6.0-B2.5.3:**
-• Added direct save to cloud for all incoming msgs ,with switch to enable.
+• Added direct save to cloud for all incoming msgs, with switch to enable.
 • Added direct edit to your msgs if edit was available for that msg,with switch to enable-Added mutual contact.
 • Added Night Mode switch and ability to set default night/day theme.
 • Added confirm for sticker and gif too.
@@ -361,17 +473,17 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 
 **BifToGram T4.6.0-B2.4.2:**
 • Added quick chat bar with many abilities and functions.
-• Added mention, copy username, link or ... to quick chat bar and in avatar context menu.
-• Added ability to select default action (long or short click) for quick chat bar .
+• Added mention, copy username, link... to quick chat bar and in avatar context menu.
+• Added ability to select default action (long or short click) for quick chat bar.
 • Added ability to change app drawer phone and name section.
 • Added ability to confirm voice or round video.
 • Added ability to enable or disable ghost mod when long click on app title.
 • Added ability enable or disable chat preview.
-• Messages swipe improved and smooth now, swipe right changed to to forward .
+• Messages swipe improved and smooth now, swipe right changed to to forward.
 • Removed useless things from app drawer.
-• Online contact moved to contact(top right button click to open online contact long click to open invite friend)
-• Native codes updated and improved(ffmpeg, voip, ssl, web, sql and ...).
-• All reported bugs fixed .
+• Online contact moved to contact(top right button click to open online contact long click to open invite friend).
+• Native codes updated and improved(ffmpeg, voip, ssl, web, sql and...).
+• All reported bugs fixed.
 • and many other things...
 
 **BifToGram T4.6.0-B2.2.7:**
@@ -379,29 +491,29 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 • Fixed minor bug.
 
 **BifToGram T4.6.0-B2.2.4:**
-• Added more markdown mono and Strikethrough( "mono" style > 'M' " and "Strikethrough" style > 'S' )
+• Added more markdown mono and Strikethrough( "mono" style > 'M' " and "Strikethrough" style > 'S' ).
 • Added set proxy at login page.
 • Chat preview, text selection, multi account and custom markdown panel improved.
 • Changed about tab actions.
-• Fixed all other reported bugs and more ...
+• Fixed all other reported bugs and more...
 
 **BifToGram T4.6.0-B2.1.8:**
-• Added chat preview with all message action except chat action.(long press on chats)
+• Added chat preview with all message action except chat action.(long press on chats).
 • Added link markdown.
 • Added custom markdown panel if original one not showing on your device.
 • Added reset for dismissed pin.
 • Added about tab.
-• Added ghost mode quick shortcut tile.(android N+)
+• Added ghost mode quick shortcut tile.(android N+).
 • Fixed Local database size in settings.
-• Fixed markdown for professional forward.(markdowns not available for captions right now)
-• Fixed bugs and more....
+• Fixed markdown for professional forward.(markdowns not available for captions right now).
+• Fixed bugs and more...
 
 **BifToGram T4.6.0-B2.0.7:**
 • Added Russian translation.
 • Fixed reported bugs and lags.
 
 **BifToGram T4.6.0-B2.0.6:**
-• Add ability to fill profile avatar photo in drawer's profile section..
+• Add ability to fill profile avatar photo in drawer's profile section.
 • Added media activity context menu.
 • Added delete media from sdcard too.
 • Added delete messages from channels (delete only from your side).
@@ -413,26 +525,26 @@ Important Note: You have to config tabs, custom tabs, favorite chats, and hidden
 
 **BifToGram T4.6.0-B1.9.2:**
 • Add ability to select text of messages.
-• Added new forwarding option without leaving chat and forward to more than one user .
-• Added avatar long click context menu(show user messages,medias and ...) from both chat and profile activity.
-• Added go to first message .
+• Added new forwarding option without leaving chat and forward to more than one user.
+• Added avatar long click context menu(show user messages,medias and...) from both chat and profile activity.
+• Added go to first message.
 • Added save to cloud,with or without quotation.
 • Removed "add forward caption text" from BifToGram (no need anymore).
 • Increased pro forward edit text line and chars.
 • Fixed bugs.
 
 **BifToGram T4.6.0-B1.8.2:**
-• Added more tabs anythings you think have own tab , unread, unread unmuted, admins, own groups, own super groups,own channels and ... now we have BifToGram have 18 tabs that you can use .
+• Added more tabs anythings you think have own tab, unread, unread unmuted, admins, own groups, own super groups,own channels and... now we have BifToGram have 18 tabs that you can use.
 • Added ability to sort tabs.
 • Added animation to changing tabs indicators.
-• Added color to navigation bar in API 21+ .
+• Added color to navigation bar in API 21+.
 • Fixed all share and professional forward bugs.
 • Fixed channels mute button bugs.
 • Fixed RTL bugs.
 • Fixed photo viewer lag.
 
 **BifToGram T4.6.0-B1.7.4:**
-• Added ability to round chat bubbles corner.(Enable it from BifToGram Settings)
+• Added ability to round chat bubbles corner.(Enable it from BifToGram Settings).
 • Added ability to set radius for each corner.
 • Added ability to dismiss only group chat pin message when you are admin.
 • Added favorite tab in professional forward.
